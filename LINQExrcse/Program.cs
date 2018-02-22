@@ -30,10 +30,14 @@ namespace LINQExrcse
                 counter += fields.Length;
             }
             Console.WriteLine("The amount of words in the text file (with \" ,.\" being the delimiters/splitters): {0} ", counter);
+            Console.WriteLine("Press enter for exercise 2.");
+            Console.ReadLine();
 
             #endregion Number 1.
 
             #region Number 2.
+
+            Console.Clear();
 
             var fileLetters = new List<string>();
             foreach (var item in File.ReadAllText(textFilePath))
@@ -41,26 +45,24 @@ namespace LINQExrcse
                 fileLetters.Add(Convert.ToString(item));
             }
 
-            var uniqueLetters = new List<char>();
+            var uniqueLetters = new List<string>();
             foreach (var item in fileLetters)
             {
-                if (uniqueLetters.Contains(Convert.ToChar(item)))
-                {
-
-                }
                 if (item == " ")
+                { }
+                if (!uniqueLetters.Contains(Convert.ToString(item.ToLower())))
                 {
-
+                    uniqueLetters.Add(Convert.ToString(item));
                 }
                 else
-                {
-                    uniqueLetters.Add(Convert.ToChar(item));
-                }
+                { }
             }
-            foreach (var item in uniqueLetters)
+            for (int i = 0; i < uniqueLetters.Count; i++)
             {
-                Console.WriteLine(item);
+                Console.Write(uniqueLetters[i]);
             }
+
+            Console.WriteLine(fileLetters);
 
             #endregion Number 2.
 
