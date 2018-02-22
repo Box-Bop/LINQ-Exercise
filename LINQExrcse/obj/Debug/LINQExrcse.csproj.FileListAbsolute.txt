@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\LINQ Exercise\LINQExrcse\LINQExrcse\bin\Debug\LINQExrcse.exe.config
+C:\Users\opilane\Desktop\LINQ Exercise\LINQExrcse\LINQExrcse\bin\Debug\LINQExrcse.exe
+C:\Users\opilane\Desktop\LINQ Exercise\LINQExrcse\LINQExrcse\bin\Debug\LINQExrcse.pdb
+C:\Users\opilane\Desktop\LINQ Exercise\LINQExrcse\LINQExrcse\obj\Debug\LINQExrcse.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\LINQ Exercise\LINQExrcse\LINQExrcse\obj\Debug\LINQExrcse.exe
+C:\Users\opilane\Desktop\LINQ Exercise\LINQExrcse\LINQExrcse\obj\Debug\LINQExrcse.pdb
+C:\Users\opilane\Desktop\LINQ Exercise\LINQExrcse\LINQExrcse\obj\Debug\LINQExrcse.csprojResolveAssemblyReference.cache
