@@ -57,16 +57,17 @@ namespace LINQExrcse
                 else
                 { }
             }
-            for (int i = 0; i < uniqueLetters.Count; i++)
-            {
-                Console.Write(uniqueLetters[i]);
-            }
 
-            Console.WriteLine(fileLetters);
+            uniqueLetters.ForEach(Console.Write);
+            Console.WriteLine();
+            Console.WriteLine("\nThe list above shows all of the unique characters in the \"tekst.txt\" file.\n\nPress enter for exercise 3");
+            Console.ReadLine();
 
             #endregion Number 2.
 
             #region Number 3.
+
+            Console.Clear();
 
             //var fileLetters = new List<string>();
             //foreach (var item in File.ReadAllText(textFilePath))

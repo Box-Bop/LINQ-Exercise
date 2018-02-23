@@ -12,3 +12,10 @@ C:\Users\opilane\Desktop\Ül\LINQ-Exercise\LINQExrcse\obj\Debug\LINQExrcse.cspro
 C:\Users\opilane\Desktop\Ül\LINQ-Exercise\LINQExrcse\obj\Debug\LINQExrcse.csproj.CoreCompileInputs.cache
 C:\Users\opilane\Desktop\Ül\LINQ-Exercise\LINQExrcse\obj\Debug\LINQExrcse.exe
 C:\Users\opilane\Desktop\Ül\LINQ-Exercise\LINQExrcse\obj\Debug\LINQExrcse.pdb
+C:\Users\BocBop\Desktop\LINQ Ex\LINQ-Exercise\LINQExrcse\bin\Debug\LINQExrcse.exe.config
+C:\Users\BocBop\Desktop\LINQ Ex\LINQ-Exercise\LINQExrcse\bin\Debug\LINQExrcse.exe
+C:\Users\BocBop\Desktop\LINQ Ex\LINQ-Exercise\LINQExrcse\bin\Debug\LINQExrcse.pdb
+C:\Users\BocBop\Desktop\LINQ Ex\LINQ-Exercise\LINQExrcse\obj\Debug\LINQExrcse.csprojResolveAssemblyReference.cache
+C:\Users\BocBop\Desktop\LINQ Ex\LINQ-Exercise\LINQExrcse\obj\Debug\LINQExrcse.csproj.CoreCompileInputs.cache
+C:\Users\BocBop\Desktop\LINQ Ex\LINQ-Exercise\LINQExrcse\obj\Debug\LINQExrcse.exe
+C:\Users\BocBop\Desktop\LINQ Ex\LINQ-Exercise\LINQExrcse\obj\Debug\LINQExrcse.pdb
